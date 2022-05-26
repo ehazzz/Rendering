@@ -1,0 +1,2 @@
+Assets/AiMeiSi/aimeisi.fbx
+Assets/LanYin/LanYin.fbx
